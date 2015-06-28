@@ -1,0 +1,26 @@
+{
+  "name": "client-cookie",
+  "version": "0.0.1",
+  "description": "set and save cookies which can be used to request by client of nodejs or iojs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcherZhao/client-cookie.git"
+  },
+  "keywords": [
+    "cookies",
+    "client"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "author": "Archer Zhao <zlming1015@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArcherZhao/client-cookie/issues"
+  },
+  "homepage": "https://github.com/ArcherZhao/client-cookie#readme"
+}
