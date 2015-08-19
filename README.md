@@ -1,6 +1,10 @@
 # client-cookie
 set and save cookies which can be used to request by client of nodejs or iojs.
 
+###install
+
+    npm install client-cookie
+
 ###cCookie.id
 
 获取创建的cookie对象的名字。
